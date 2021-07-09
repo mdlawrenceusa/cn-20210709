@@ -23,9 +23,14 @@ export const products = [
     name: 'Phone Standard',
     price: 299,
     description: ''
+  },
+  {
+    id: 4,
+    name: 'College Now Elite',
+    price: 1299,
+    description: 'iPhone 13 Pro-Max'
   }
 ];
-
 
 /*
 Copyright Google LLC. All Rights Reserved.
